@@ -1,4 +1,4 @@
-How to share data with a statistician
+How to share data with a statistician?
 ===========
 
 This is a guide for anyone who needs to share data with a statistician. The target audiences I have in mind are:
@@ -20,7 +20,7 @@ before calling on a statistician. This can dramatically speed the turnaround tim
 have to work through all the pre-processing steps first. 
 
 
-What you should deliver to the statistician
+What you should deliver to the statistician?
 ====================
 
 For maximum speed in the analysis this is the information you should pass to a statistician:
@@ -159,7 +159,7 @@ to confirm that they can obtain the same output file you did.
 
 
 
-What you should expect from the analyst
+What you should expect from the analyst?
 ====================
 
 When you turn over a properly tidied data set it dramatically decreases the workload on the statistician. So hopefully
